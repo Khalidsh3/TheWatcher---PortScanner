@@ -1,0 +1,5 @@
+# thewatcher runtime: no third-party dependencies.
+# Python 3.9+ standard library only.
+
+# Development / testing:
+pytest>=7.4
