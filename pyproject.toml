@@ -36,9 +36,9 @@ dev = ["pytest>=7.4"]
 thewatcher = "thewatcher:main"
 
 [project.urls]
-Homepage = "https://github.com/your-user/thewatcher"
-Issues = "https://github.com/your-user/thewatcher/issues"
-Source = "https://github.com/your-user/thewatcher"
+Homepage = "https://github.com/khalidsh3/thewatcher"
+Issues = "https://github.com/khalidsh3/thewatcher/issues"
+Source = "https://github.com/khalidsh3/thewatcher"
 
 [tool.setuptools]
 py-modules = ["thewatcher"]
